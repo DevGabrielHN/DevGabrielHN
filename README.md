@@ -1,6 +1,6 @@
-## Hi, my name is Lucas Fonte!
+## Hi, my name is Gabriel Nascimento!
 
-- 💻 Currently working in the field of Web and Mobile Development as back-end developer
+- 💻 Currently in  training to develop oracle solutions
 - 📚 Studying Systems Analysis and Development
 - 📌 Campinas, SP, Brazil
   
