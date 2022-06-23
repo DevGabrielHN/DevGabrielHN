@@ -14,7 +14,7 @@
    <img align="center" alt="Gabriel-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   
   
-   <img align="center" alt="Gabriel-quarkus" height="30" width="40" src="https://design.jboss.org/quarkus/logo/final/PNG/quarkus_icon_rgb_1024px_default.png">
+   <!--img align="center" alt="Gabriel-quarkus" height="30" width="40" src="https://design.jboss.org/quarkus/logo/final/PNG/quarkus_icon_rgb_1024px_default.png"-->
   
   
   <img align="center" alt="Gabriel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
