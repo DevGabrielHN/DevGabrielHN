@@ -14,7 +14,7 @@
    <img align="center" alt="Gabriel-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Gabriel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Gabriel-oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
- <img align="center" alt="Gabriel-oracle" height="30" width="40" src="https://spng.pinpng.com/pngs/s/275-2751707_avatar-oracle-logo-transparent-oracle-hd-png-download.png">
+ <img align="center" alt="Gabriel-oracle" height="30" width="40" src="https://flyclipart.com/thumb2/oracle-102690.png">
   
 </div>
   
