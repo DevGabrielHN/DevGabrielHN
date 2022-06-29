@@ -1,6 +1,6 @@
 ## Hi, my name is Gabriel Nascimento!
 
-- 💻 Currently in  training to develop oracle solutions
+- 💻 Currently in training to develop oracle solutions
 - 📚 Studying Systems Analysis and Development
 - 📌 Campinas, SP, Brazil
   
