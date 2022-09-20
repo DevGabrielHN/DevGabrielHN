@@ -1,7 +1,7 @@
-## Hi, my name is Gabriel Nascimento!
+## Oi, meu nome é Gabriel Nascimento!
 
-- 💻 Currently in training to develop oracle solutions
-- 📚 Studying Systems Analysis and Development
+- 💻 Atualmente em treinamento para desenvolver soluções oracle
+- 📚 Estudando Análise e Desenvolvimento de Sistemas (Unimetrocamp - Wyden)
 - 📌 Campinas, SP, Brazil
   
 <div style="display: inline_block"><br>
@@ -12,7 +12,6 @@
   <img align="center" alt="Gabriel-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Gabriel-oracle" height="30" width="40" src="https://pbs.twimg.com/profile_images/1534280369159213070/cuTT4bFz_400x400.png">
   <img align="center" alt="Gabriel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-
 </div>
   
 ##
