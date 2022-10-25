@@ -3,7 +3,7 @@
 - 💻 Atualmente em treinamento para desenvolvimento full-stack
 - 📚 Estudando Análise e Desenvolvimento de Sistemas (Unimetrocamp - Wyden)
 - 📌 Campinas, SP, Brazil
-- 🌐 <a href="https://portifolio-bf9c5.web.app/" target="_blank" rel="noopener noreferrer">Site profissional<a/>
+- 🌐 <a href="https://portifolio-bf9c5.web.app/" >Site profissional<a/>
 
 <div align="center">
   <a href="https://github.com/DevGabrielHN">
