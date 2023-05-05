@@ -17,6 +17,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ 
+  <img align="center" alt="Gabriel-Next" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next/next-original.svg">
+  
   <img align="center" alt="Gabriel-Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Gabriel-spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Gabriel-dart" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
