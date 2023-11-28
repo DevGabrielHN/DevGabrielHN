@@ -1,7 +1,7 @@
 ## Oi, meu nome é Gabriel Nascimento!
 
 - 💻 Full-stack Junior
-- 📚 Estudando Análise e Desenvolvimento de Sistemas (Unimetrocamp - Wyden)
+- 📚 Formado em Análise e Desenvolvimento de Sistemas (Unimetrocamp - Wyden)
 - 📌 Campinas, SP, Brazil
 - 🌐 <a href="https://portifolio-bf9c5.web.app/" >Site profissional<a/>
 
